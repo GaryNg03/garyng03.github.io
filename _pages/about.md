@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Math is what I trust."
+title: "Mathematics knows no races or geographic boundaries; for mathematics, the cultural world is one country.-David Hilbert"
 author_profile: true
 redirect_from: 
   - /about/
