@@ -8,4 +8,4 @@ date: 2025
 #location: "Lanzhou, China"
 ---
 
-I will write about 60 percent of porblems appear in Atiyah.  
+I will write about 60 percent of exercises appear in Atiyah.  
