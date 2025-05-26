@@ -8,4 +8,4 @@ redirect_from:
 ---
 
 I graduated from LZU (en.lzu.edu.cn), and am about to be a student in CNU (www.cnu.edu.cn
-). I am majorly interested in Algebraic Number Theory and Algorithm Geometry.
+). I am majorly interested in Algebraic Number Theory and Arithmetic Geometry.
