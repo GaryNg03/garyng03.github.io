@@ -4,12 +4,12 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am an undergraduate student at Institute of Mathematics and Statistics in Lanzhou University and about to have my master degree at Capital Normal University.
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Algebraic Number Theory** Especially those related to Galois theory .
+- **Arithmetic Geometry** 
 
 ## News
 
